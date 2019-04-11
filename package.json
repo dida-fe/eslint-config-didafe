@@ -1,0 +1,25 @@
+{
+  "author": {
+    "name": "hm496@163.com"
+  },
+  "bugs": {
+    "url": "https://github.com/dida-fe/eslint-config-didafe/issues"
+  },
+  "description": "ESLint Config for dida fe team.",
+  "homepage": "https://github.com/dida-fe/eslint-config-didafe#readme",
+  "keywords": [
+    "eslint",
+    "didafe"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "eslint-config-didafe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dida-fe/eslint-config-didafe.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "version": "0.0.1-beta.0"
+}
