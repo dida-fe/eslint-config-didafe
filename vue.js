@@ -25,7 +25,7 @@ module.exports = {
         "baseIndent": 1,
         "closeBracket": 0,
         "alignAttributesVertically": false,
-        "ignores": ['VAttribute']
+        "ignores": []
       }
     ],
     "vue/script-indent": [
