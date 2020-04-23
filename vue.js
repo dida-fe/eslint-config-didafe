@@ -24,7 +24,6 @@ module.exports = {
         "attribute": 1,
         "baseIndent": 1,
         "closeBracket": 0,
-        "alignAttributesVertically": false,
         "ignores": []
       }
     ],
