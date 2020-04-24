@@ -18,7 +18,7 @@ module.exports = {
 
   "rules": Object.assign({}, rules, {
     "vue/html-indent": [
-      "error",
+      "warn",
       2,
       {
         "attribute": 1,
@@ -28,11 +28,12 @@ module.exports = {
       }
     ],
     "vue/script-indent": [
-      "error",
+      "warn",
       2,
       {
         "switchCase": 1,
-        "baseIndent": 1
+        "baseIndent": 1,
+        "ignores": ["ConditionalExpression"]
       }
     ]
   }),
